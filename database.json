@@ -1,0 +1,3732 @@
+{
+  "users": [
+    {
+      "id": 1773008364489,
+      "name": "eduardo vieira",
+      "email": "eduardo.vieira@normatel.com.br",
+      "password": "scrypt:f713e87a61a0348a3116a357b3248a4b:e1fdb352a97a65a9c1e0238538760d5452048eea99e2ac3f43bbb6a4e33369313d91bef7c7792d142c8c4f10d67c8a612897589f34d8f9e4cbd9937cec5a6fed",
+      "createdAt": "2026-03-08T22:19:24.536Z"
+    }
+  ],
+  "checklists": [
+    {
+      "id": 1773509354576,
+      "userId": 1773008364489,
+      "userEmail": "eduardo.vieira@normatel.com.br",
+      "userName": "eduardo vieira",
+      "formType": "simples",
+      "descricaoAtividade": "adscd",
+      "responsavelPlanejamento": "eduardo",
+      "requisitante": "eduardo",
+      "horarioDuracao": "08:00 as 16:00",
+      "executante": "eduardo",
+      "numSolicitacao": "202154778",
+      "localAtividade": "220",
+      "dataInicio": "",
+      "dataFim": "",
+      "data": "",
+      "etapas": [
+        {
+          "etapa": 1,
+          "descricao": "manutenção",
+          "inicio": "08:00",
+          "termino": "16:00",
+          "duracao": "08:00"
+        }
+      ],
+      "q2": {
+        "quente": "",
+        "chamaAberta": "",
+        "fonteIgnicao": "",
+        "areaClassificada": ""
+      },
+      "q3": {
+        "energizadoPressurizado": ""
+      },
+      "recursos": [
+        {
+          "nome": "Ferramentas manuais",
+          "disponivel": false
+        },
+        {
+          "nome": "Bota de segurança / PVC",
+          "disponivel": false
+        },
+        {
+          "nome": "Óculos de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Instrumentos de medição",
+          "disponivel": false
+        },
+        {
+          "nome": "Uniforme RF",
+          "disponivel": true
+        },
+        {
+          "nome": "Cinto de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Escada",
+          "disponivel": true
+        },
+        {
+          "nome": "Protetor auricular",
+          "disponivel": false
+        },
+        {
+          "nome": "Isolamento de Energia",
+          "disponivel": false
+        },
+        {
+          "nome": "Capacete de Segurança",
+          "disponivel": true
+        },
+        {
+          "nome": "Luva",
+          "disponivel": false
+        },
+        {
+          "nome": "Parafusadeira",
+          "disponivel": false
+        }
+      ],
+      "outrosRecursos": "",
+      "q5": {
+        "outraAtividadeMesmoLocal": ""
+      },
+      "q6": {
+        "resposta": ""
+      },
+      "executanteSubstituto": "",
+      "assinaturaResponsavel": "",
+      "pagina2": {
+        "meta": {
+          "responsavel": "Eduardo",
+          "dataAvaliacao": "11/03/2026",
+          "tempoExec": "dois dias",
+          "localAtividade": "220",
+          "numSolicitacao": "2031222333",
+          "equipeNecessaria": "Uma dupla"
+        },
+        "servico": {
+          "pemt": {
+            "resposta": "nao",
+            "obs": ""
+          },
+          "limpezaArea": {
+            "resposta": "nao",
+            "obs": ""
+          },
+          "comunicacoesOperantes": {
+            "resposta": "nao",
+            "obs": ""
+          },
+          "visitaTecnica": {
+            "resposta": "nao",
+            "obs": ""
+          },
+          "montagemAndaime": {
+            "resposta": "nao",
+            "obs": ""
+          },
+          "visitaSMS": {
+            "resposta": "nao",
+            "obs": ""
+          },
+          "caminhaoMunck": {
+            "resposta": "nao",
+            "obs": ""
+          },
+          "veiculo": {
+            "resposta": "nao",
+            "obs": ""
+          },
+          "lubrif": {
+            "resposta": "nao",
+            "obs": ""
+          },
+          "art": {
+            "resposta": "nao",
+            "obs": ""
+          },
+          "desligamentoEletrico": {
+            "resposta": "nao",
+            "obs": ""
+          },
+          "desligamentoSDAI": {
+            "resposta": "nao",
+            "obs": ""
+          },
+          "desligamentoPM2007": {
+            "resposta": "nao",
+            "obs": ""
+          },
+          "remanejamentoMobiliario": {
+            "resposta": "nao",
+            "obs": ""
+          },
+          "tamanho": "",
+          "fimSemana": "nao",
+          "fimSemanaObs": "",
+          "materialCompra": "",
+          "locacao": "",
+          "apoioOutraEquipe": {
+            "resposta": "nao",
+            "equipe": "",
+            "descricao": ""
+          }
+        },
+        "informacoesAdicionais": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "materiais": [
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          }
+        ]
+      },
+      "createdAt": "2026-03-14T17:29:14.576Z",
+      "updatedAt": "2026-03-14T19:24:57.943Z",
+      "q1": {
+        "altura": "",
+        "espacoConfinado": "",
+        "cargaCritica": ""
+      },
+      "q4": {
+        "afetaAcessoRotasFuga": "",
+        "obs": ""
+      },
+      "outrosEquip": "",
+      "q7": "",
+      "q8": {
+        "resposta": "",
+        "obs": ""
+      },
+      "carteira": "ANA-Análise de Ar"
+    },
+    {
+      "id": 1773516324558,
+      "userId": 1773008364489,
+      "userEmail": "eduardo.vieira@normatel.com.br",
+      "userName": "eduardo vieira",
+      "descricaoAtividade": "eqdca",
+      "responsavelPlanejamento": "dvcasdvd",
+      "requisitante": "dsva",
+      "numSolicitacao": "sdvdasd",
+      "carteira": "ALV-Alvenaria",
+      "localAtividade": "sdv",
+      "data": "",
+      "q1": {
+        "altura": "",
+        "espacoConfinado": "",
+        "cargaCritica": "nao"
+      },
+      "q2": {
+        "quente": "",
+        "chamaAberta": "",
+        "fonteIgnicao": "",
+        "areaClassificada": ""
+      },
+      "q3": {
+        "energizadoPressurizado": ""
+      },
+      "q4": {
+        "afetaAcessoRotasFuga": "",
+        "obs": ""
+      },
+      "q5": {
+        "outraAtividadeMesmoLocal": ""
+      },
+      "recursos": [
+        {
+          "nome": "Ferramentas manuais",
+          "disponivel": false
+        },
+        {
+          "nome": "Bota de segurança / PVC",
+          "disponivel": false
+        },
+        {
+          "nome": "Óculos de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Instrumentos de medição",
+          "disponivel": false
+        },
+        {
+          "nome": "Uniforme RF",
+          "disponivel": false
+        },
+        {
+          "nome": "Cinto de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Escada",
+          "disponivel": false
+        },
+        {
+          "nome": "Protetor auricular",
+          "disponivel": false
+        },
+        {
+          "nome": "Isolamento de Energia",
+          "disponivel": false
+        },
+        {
+          "nome": "Capacete de Segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Luva",
+          "disponivel": false
+        },
+        {
+          "nome": "Parafusadeira",
+          "disponivel": false
+        }
+      ],
+      "outrosEquip": "",
+      "q7": "",
+      "q8": {
+        "resposta": "",
+        "obs": ""
+      },
+      "etapas": [
+        {
+          "etapa": 1,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 2,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 3,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 4,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 5,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 6,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 7,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 8,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 9,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        }
+      ],
+      "pagina2": {
+        "meta": {
+          "responsavel": "",
+          "dataAvaliacao": "",
+          "tempoExec": "",
+          "localAtividade": "",
+          "numSolicitacao": "",
+          "equipeNecessaria": ""
+        },
+        "servico": {
+          "pemt": {
+            "resposta": "",
+            "obs": ""
+          },
+          "limpezaArea": {
+            "resposta": "",
+            "obs": ""
+          },
+          "comunicacoesOperantes": {
+            "resposta": "",
+            "obs": ""
+          },
+          "visitaTecnica": {
+            "resposta": "",
+            "obs": ""
+          },
+          "montagemAndaime": {
+            "resposta": "",
+            "obs": ""
+          },
+          "visitaSMS": {
+            "resposta": "",
+            "obs": ""
+          },
+          "caminhaoMunck": {
+            "resposta": "",
+            "obs": ""
+          },
+          "veiculo": {
+            "resposta": "",
+            "obs": ""
+          },
+          "lubrif": {
+            "resposta": "",
+            "obs": ""
+          },
+          "art": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoEletrico": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoSDAI": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoPM2007": {
+            "resposta": "",
+            "obs": ""
+          },
+          "remanejamentoMobiliario": {
+            "resposta": "",
+            "obs": ""
+          },
+          "tamanho": "",
+          "fimSemana": "",
+          "fimSemanaObs": "",
+          "materialCompra": "",
+          "locacao": "",
+          "apoioOutraEquipe": {
+            "resposta": "",
+            "equipe": "",
+            "descricao": ""
+          }
+        },
+        "informacoesAdicionais": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "materiais": [
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          }
+        ]
+      },
+      "createdAt": "2026-03-14T19:25:24.559Z"
+    },
+    {
+      "id": 1773522360610,
+      "userId": 1773008364489,
+      "userEmail": "eduardo.vieira@normatel.com.br",
+      "userName": "eduardo vieira",
+      "descricaoAtividade": "EFVQ",
+      "responsavelPlanejamento": "QEFVQ",
+      "requisitante": "AWFVQ",
+      "numSolicitacao": "3R13RV",
+      "carteira": "ALV-Alvenaria",
+      "localAtividade": "FVQERRF",
+      "data": "",
+      "q1": {
+        "altura": "",
+        "espacoConfinado": "",
+        "cargaCritica": ""
+      },
+      "q2": {
+        "quente": "",
+        "chamaAberta": "",
+        "fonteIgnicao": "",
+        "areaClassificada": ""
+      },
+      "q3": {
+        "energizadoPressurizado": ""
+      },
+      "q4": {
+        "afetaAcessoRotasFuga": "",
+        "obs": ""
+      },
+      "q5": {
+        "outraAtividadeMesmoLocal": ""
+      },
+      "recursos": [
+        {
+          "nome": "Ferramentas manuais",
+          "disponivel": false
+        },
+        {
+          "nome": "Bota de segurança / PVC",
+          "disponivel": false
+        },
+        {
+          "nome": "Óculos de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Instrumentos de medição",
+          "disponivel": false
+        },
+        {
+          "nome": "Uniforme RF",
+          "disponivel": false
+        },
+        {
+          "nome": "Cinto de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Escada",
+          "disponivel": false
+        },
+        {
+          "nome": "Protetor auricular",
+          "disponivel": false
+        },
+        {
+          "nome": "Isolamento de Energia",
+          "disponivel": false
+        },
+        {
+          "nome": "Capacete de Segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Luva",
+          "disponivel": false
+        },
+        {
+          "nome": "Parafusadeira",
+          "disponivel": false
+        }
+      ],
+      "outrosEquip": "",
+      "q7": "",
+      "q8": {
+        "resposta": "",
+        "obs": ""
+      },
+      "etapas": [
+        {
+          "etapa": 1,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 2,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 3,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 4,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 5,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 6,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 7,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 8,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 9,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        }
+      ],
+      "pagina2": {
+        "meta": {
+          "responsavel": "",
+          "dataAvaliacao": "",
+          "tempoExec": "",
+          "localAtividade": "",
+          "numSolicitacao": "",
+          "equipeNecessaria": ""
+        },
+        "servico": {
+          "pemt": {
+            "resposta": "",
+            "obs": ""
+          },
+          "limpezaArea": {
+            "resposta": "",
+            "obs": ""
+          },
+          "comunicacoesOperantes": {
+            "resposta": "",
+            "obs": ""
+          },
+          "visitaTecnica": {
+            "resposta": "",
+            "obs": ""
+          },
+          "montagemAndaime": {
+            "resposta": "",
+            "obs": ""
+          },
+          "visitaSMS": {
+            "resposta": "",
+            "obs": ""
+          },
+          "caminhaoMunck": {
+            "resposta": "",
+            "obs": ""
+          },
+          "veiculo": {
+            "resposta": "",
+            "obs": ""
+          },
+          "lubrif": {
+            "resposta": "",
+            "obs": ""
+          },
+          "art": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoEletrico": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoSDAI": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoPM2007": {
+            "resposta": "",
+            "obs": ""
+          },
+          "remanejamentoMobiliario": {
+            "resposta": "",
+            "obs": ""
+          },
+          "tamanho": "",
+          "fimSemana": "",
+          "fimSemanaObs": "",
+          "materialCompra": "",
+          "locacao": "",
+          "apoioOutraEquipe": {
+            "resposta": "",
+            "equipe": "",
+            "descricao": ""
+          }
+        },
+        "informacoesAdicionais": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "materiais": [
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          }
+        ]
+      },
+      "createdAt": "2026-03-14T21:06:00.610Z",
+      "updatedAt": "2026-03-14T21:06:29.343Z"
+    },
+    {
+      "id": 1773522414709,
+      "userId": 1773008364489,
+      "userEmail": "eduardo.vieira@normatel.com.br",
+      "userName": "eduardo vieira",
+      "descricaoAtividade": "WVE",
+      "responsavelPlanejamento": "VQFVQFV",
+      "requisitante": "QVQEV",
+      "numSolicitacao": "QVFQRVR",
+      "carteira": "ALV-Alvenaria",
+      "localAtividade": "QWVV",
+      "data": "",
+      "q1": {
+        "altura": "",
+        "espacoConfinado": "",
+        "cargaCritica": ""
+      },
+      "q2": {
+        "quente": "",
+        "chamaAberta": "",
+        "fonteIgnicao": "",
+        "areaClassificada": ""
+      },
+      "q3": {
+        "energizadoPressurizado": ""
+      },
+      "q4": {
+        "afetaAcessoRotasFuga": "",
+        "obs": ""
+      },
+      "q5": {
+        "outraAtividadeMesmoLocal": ""
+      },
+      "recursos": [
+        {
+          "nome": "Ferramentas manuais",
+          "disponivel": false
+        },
+        {
+          "nome": "Bota de segurança / PVC",
+          "disponivel": false
+        },
+        {
+          "nome": "Óculos de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Instrumentos de medição",
+          "disponivel": false
+        },
+        {
+          "nome": "Uniforme RF",
+          "disponivel": false
+        },
+        {
+          "nome": "Cinto de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Escada",
+          "disponivel": false
+        },
+        {
+          "nome": "Protetor auricular",
+          "disponivel": false
+        },
+        {
+          "nome": "Isolamento de Energia",
+          "disponivel": false
+        },
+        {
+          "nome": "Capacete de Segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Luva",
+          "disponivel": false
+        },
+        {
+          "nome": "Parafusadeira",
+          "disponivel": false
+        }
+      ],
+      "outrosEquip": "",
+      "q7": "",
+      "q8": {
+        "resposta": "",
+        "obs": ""
+      },
+      "etapas": [
+        {
+          "etapa": 1,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 2,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 3,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 4,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 5,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 6,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 7,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 8,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 9,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        }
+      ],
+      "pagina2": {
+        "meta": {
+          "responsavel": "",
+          "dataAvaliacao": "",
+          "tempoExec": "",
+          "localAtividade": "",
+          "numSolicitacao": "",
+          "equipeNecessaria": ""
+        },
+        "servico": {
+          "pemt": {
+            "resposta": "",
+            "obs": ""
+          },
+          "limpezaArea": {
+            "resposta": "",
+            "obs": ""
+          },
+          "comunicacoesOperantes": {
+            "resposta": "",
+            "obs": ""
+          },
+          "visitaTecnica": {
+            "resposta": "",
+            "obs": ""
+          },
+          "montagemAndaime": {
+            "resposta": "",
+            "obs": ""
+          },
+          "visitaSMS": {
+            "resposta": "",
+            "obs": ""
+          },
+          "caminhaoMunck": {
+            "resposta": "",
+            "obs": ""
+          },
+          "veiculo": {
+            "resposta": "",
+            "obs": ""
+          },
+          "lubrif": {
+            "resposta": "",
+            "obs": ""
+          },
+          "art": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoEletrico": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoSDAI": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoPM2007": {
+            "resposta": "",
+            "obs": ""
+          },
+          "remanejamentoMobiliario": {
+            "resposta": "",
+            "obs": ""
+          },
+          "tamanho": "",
+          "fimSemana": "",
+          "fimSemanaObs": "",
+          "materialCompra": "",
+          "locacao": "",
+          "apoioOutraEquipe": {
+            "resposta": "",
+            "equipe": "",
+            "descricao": ""
+          }
+        },
+        "informacoesAdicionais": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "materiais": [
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          }
+        ]
+      },
+      "createdAt": "2026-03-14T21:06:54.709Z"
+    },
+    {
+      "id": 1773522424264,
+      "userId": 1773008364489,
+      "userEmail": "eduardo.vieira@normatel.com.br",
+      "userName": "eduardo vieira",
+      "descricaoAtividade": "adc",
+      "responsavelPlanejamento": "dcdDVV",
+      "requisitante": "QREVQ",
+      "numSolicitacao": "WQQV",
+      "carteira": "ALV-Alvenaria",
+      "localAtividade": "EFDVQR",
+      "data": "",
+      "q1": {
+        "altura": "",
+        "espacoConfinado": "",
+        "cargaCritica": ""
+      },
+      "q2": {
+        "quente": "",
+        "chamaAberta": "",
+        "fonteIgnicao": "",
+        "areaClassificada": ""
+      },
+      "q3": {
+        "energizadoPressurizado": ""
+      },
+      "q4": {
+        "afetaAcessoRotasFuga": "",
+        "obs": ""
+      },
+      "q5": {
+        "outraAtividadeMesmoLocal": ""
+      },
+      "recursos": [
+        {
+          "nome": "Ferramentas manuais",
+          "disponivel": false
+        },
+        {
+          "nome": "Bota de segurança / PVC",
+          "disponivel": false
+        },
+        {
+          "nome": "Óculos de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Instrumentos de medição",
+          "disponivel": false
+        },
+        {
+          "nome": "Uniforme RF",
+          "disponivel": false
+        },
+        {
+          "nome": "Cinto de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Escada",
+          "disponivel": false
+        },
+        {
+          "nome": "Protetor auricular",
+          "disponivel": false
+        },
+        {
+          "nome": "Isolamento de Energia",
+          "disponivel": false
+        },
+        {
+          "nome": "Capacete de Segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Luva",
+          "disponivel": false
+        },
+        {
+          "nome": "Parafusadeira",
+          "disponivel": false
+        }
+      ],
+      "outrosEquip": "",
+      "q7": "",
+      "q8": {
+        "resposta": "",
+        "obs": ""
+      },
+      "etapas": [
+        {
+          "etapa": 1,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 2,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 3,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 4,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 5,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 6,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 7,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 8,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 9,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        }
+      ],
+      "pagina2": {
+        "meta": {
+          "responsavel": "",
+          "dataAvaliacao": "",
+          "tempoExec": "",
+          "localAtividade": "",
+          "numSolicitacao": "",
+          "equipeNecessaria": ""
+        },
+        "servico": {
+          "pemt": {
+            "resposta": "",
+            "obs": ""
+          },
+          "limpezaArea": {
+            "resposta": "",
+            "obs": ""
+          },
+          "comunicacoesOperantes": {
+            "resposta": "",
+            "obs": ""
+          },
+          "visitaTecnica": {
+            "resposta": "",
+            "obs": ""
+          },
+          "montagemAndaime": {
+            "resposta": "",
+            "obs": ""
+          },
+          "visitaSMS": {
+            "resposta": "",
+            "obs": ""
+          },
+          "caminhaoMunck": {
+            "resposta": "",
+            "obs": ""
+          },
+          "veiculo": {
+            "resposta": "",
+            "obs": ""
+          },
+          "lubrif": {
+            "resposta": "",
+            "obs": ""
+          },
+          "art": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoEletrico": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoSDAI": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoPM2007": {
+            "resposta": "",
+            "obs": ""
+          },
+          "remanejamentoMobiliario": {
+            "resposta": "",
+            "obs": ""
+          },
+          "tamanho": "",
+          "fimSemana": "",
+          "fimSemanaObs": "",
+          "materialCompra": "",
+          "locacao": "",
+          "apoioOutraEquipe": {
+            "resposta": "",
+            "equipe": "",
+            "descricao": ""
+          }
+        },
+        "informacoesAdicionais": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "materiais": [
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          }
+        ]
+      },
+      "createdAt": "2026-03-14T21:07:04.264Z"
+    },
+    {
+      "id": 1773522432007,
+      "userId": 1773008364489,
+      "userEmail": "eduardo.vieira@normatel.com.br",
+      "userName": "eduardo vieira",
+      "descricaoAtividade": "QWRVQR",
+      "responsavelPlanejamento": "QEVFQFEF",
+      "requisitante": "QRVRQ",
+      "numSolicitacao": "QWVQWV",
+      "carteira": "ALV-Alvenaria",
+      "localAtividade": "QWVQWR",
+      "data": "",
+      "q1": {
+        "altura": "",
+        "espacoConfinado": "",
+        "cargaCritica": ""
+      },
+      "q2": {
+        "quente": "",
+        "chamaAberta": "",
+        "fonteIgnicao": "",
+        "areaClassificada": ""
+      },
+      "q3": {
+        "energizadoPressurizado": ""
+      },
+      "q4": {
+        "afetaAcessoRotasFuga": "",
+        "obs": ""
+      },
+      "q5": {
+        "outraAtividadeMesmoLocal": ""
+      },
+      "recursos": [
+        {
+          "nome": "Ferramentas manuais",
+          "disponivel": false
+        },
+        {
+          "nome": "Bota de segurança / PVC",
+          "disponivel": false
+        },
+        {
+          "nome": "Óculos de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Instrumentos de medição",
+          "disponivel": false
+        },
+        {
+          "nome": "Uniforme RF",
+          "disponivel": false
+        },
+        {
+          "nome": "Cinto de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Escada",
+          "disponivel": false
+        },
+        {
+          "nome": "Protetor auricular",
+          "disponivel": false
+        },
+        {
+          "nome": "Isolamento de Energia",
+          "disponivel": false
+        },
+        {
+          "nome": "Capacete de Segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Luva",
+          "disponivel": false
+        },
+        {
+          "nome": "Parafusadeira",
+          "disponivel": false
+        }
+      ],
+      "outrosEquip": "",
+      "q7": "",
+      "q8": {
+        "resposta": "",
+        "obs": ""
+      },
+      "etapas": [
+        {
+          "etapa": 1,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 2,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 3,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 4,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 5,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 6,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 7,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 8,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 9,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        }
+      ],
+      "pagina2": {
+        "meta": {
+          "responsavel": "",
+          "dataAvaliacao": "",
+          "tempoExec": "",
+          "localAtividade": "",
+          "numSolicitacao": "",
+          "equipeNecessaria": ""
+        },
+        "servico": {
+          "pemt": {
+            "resposta": "",
+            "obs": ""
+          },
+          "limpezaArea": {
+            "resposta": "",
+            "obs": ""
+          },
+          "comunicacoesOperantes": {
+            "resposta": "",
+            "obs": ""
+          },
+          "visitaTecnica": {
+            "resposta": "",
+            "obs": ""
+          },
+          "montagemAndaime": {
+            "resposta": "",
+            "obs": ""
+          },
+          "visitaSMS": {
+            "resposta": "",
+            "obs": ""
+          },
+          "caminhaoMunck": {
+            "resposta": "",
+            "obs": ""
+          },
+          "veiculo": {
+            "resposta": "",
+            "obs": ""
+          },
+          "lubrif": {
+            "resposta": "",
+            "obs": ""
+          },
+          "art": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoEletrico": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoSDAI": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoPM2007": {
+            "resposta": "",
+            "obs": ""
+          },
+          "remanejamentoMobiliario": {
+            "resposta": "",
+            "obs": ""
+          },
+          "tamanho": "",
+          "fimSemana": "",
+          "fimSemanaObs": "",
+          "materialCompra": "",
+          "locacao": "",
+          "apoioOutraEquipe": {
+            "resposta": "",
+            "equipe": "",
+            "descricao": ""
+          }
+        },
+        "informacoesAdicionais": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "materiais": [
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          }
+        ]
+      },
+      "createdAt": "2026-03-14T21:07:12.007Z"
+    },
+    {
+      "id": 1773522461683,
+      "userId": 1773008364489,
+      "userEmail": "eduardo.vieira@normatel.com.br",
+      "userName": "eduardo vieira",
+      "descricaoAtividade": "QWVQF",
+      "responsavelPlanejamento": "WV WG WEF",
+      "requisitante": "QVEFQRV",
+      "numSolicitacao": "QEFVQEVF",
+      "carteira": "ALV-Alvenaria",
+      "localAtividade": "QEFFV",
+      "data": "",
+      "q1": {
+        "altura": "",
+        "espacoConfinado": "",
+        "cargaCritica": ""
+      },
+      "q2": {
+        "quente": "",
+        "chamaAberta": "",
+        "fonteIgnicao": "",
+        "areaClassificada": ""
+      },
+      "q3": {
+        "energizadoPressurizado": ""
+      },
+      "q4": {
+        "afetaAcessoRotasFuga": "",
+        "obs": ""
+      },
+      "q5": {
+        "outraAtividadeMesmoLocal": ""
+      },
+      "recursos": [
+        {
+          "nome": "Ferramentas manuais",
+          "disponivel": false
+        },
+        {
+          "nome": "Bota de segurança / PVC",
+          "disponivel": false
+        },
+        {
+          "nome": "Óculos de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Instrumentos de medição",
+          "disponivel": false
+        },
+        {
+          "nome": "Uniforme RF",
+          "disponivel": false
+        },
+        {
+          "nome": "Cinto de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Escada",
+          "disponivel": false
+        },
+        {
+          "nome": "Protetor auricular",
+          "disponivel": false
+        },
+        {
+          "nome": "Isolamento de Energia",
+          "disponivel": false
+        },
+        {
+          "nome": "Capacete de Segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Luva",
+          "disponivel": false
+        },
+        {
+          "nome": "Parafusadeira",
+          "disponivel": false
+        }
+      ],
+      "outrosEquip": "",
+      "q7": "",
+      "q8": {
+        "resposta": "",
+        "obs": ""
+      },
+      "etapas": [
+        {
+          "etapa": 1,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 2,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 3,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 4,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 5,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 6,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 7,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 8,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 9,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        }
+      ],
+      "pagina2": {
+        "meta": {
+          "responsavel": "",
+          "dataAvaliacao": "",
+          "tempoExec": "",
+          "localAtividade": "",
+          "numSolicitacao": "",
+          "equipeNecessaria": ""
+        },
+        "servico": {
+          "pemt": {
+            "resposta": "",
+            "obs": ""
+          },
+          "limpezaArea": {
+            "resposta": "",
+            "obs": ""
+          },
+          "comunicacoesOperantes": {
+            "resposta": "",
+            "obs": ""
+          },
+          "visitaTecnica": {
+            "resposta": "",
+            "obs": ""
+          },
+          "montagemAndaime": {
+            "resposta": "",
+            "obs": ""
+          },
+          "visitaSMS": {
+            "resposta": "",
+            "obs": ""
+          },
+          "caminhaoMunck": {
+            "resposta": "",
+            "obs": ""
+          },
+          "veiculo": {
+            "resposta": "",
+            "obs": ""
+          },
+          "lubrif": {
+            "resposta": "",
+            "obs": ""
+          },
+          "art": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoEletrico": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoSDAI": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoPM2007": {
+            "resposta": "",
+            "obs": ""
+          },
+          "remanejamentoMobiliario": {
+            "resposta": "",
+            "obs": ""
+          },
+          "tamanho": "",
+          "fimSemana": "",
+          "fimSemanaObs": "",
+          "materialCompra": "",
+          "locacao": "",
+          "apoioOutraEquipe": {
+            "resposta": "",
+            "equipe": "",
+            "descricao": ""
+          }
+        },
+        "informacoesAdicionais": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "materiais": [
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          }
+        ]
+      },
+      "createdAt": "2026-03-14T21:07:41.683Z"
+    },
+    {
+      "id": 1773522471338,
+      "userId": 1773008364489,
+      "userEmail": "eduardo.vieira@normatel.com.br",
+      "userName": "eduardo vieira",
+      "descricaoAtividade": "QEVEFV",
+      "responsavelPlanejamento": "QFEVQE",
+      "requisitante": "QEFV",
+      "numSolicitacao": "QEFVQ",
+      "carteira": "ALV-Alvenaria",
+      "localAtividade": "QEFVQ",
+      "data": "",
+      "q1": {
+        "altura": "",
+        "espacoConfinado": "",
+        "cargaCritica": ""
+      },
+      "q2": {
+        "quente": "",
+        "chamaAberta": "",
+        "fonteIgnicao": "",
+        "areaClassificada": ""
+      },
+      "q3": {
+        "energizadoPressurizado": ""
+      },
+      "q4": {
+        "afetaAcessoRotasFuga": "",
+        "obs": ""
+      },
+      "q5": {
+        "outraAtividadeMesmoLocal": ""
+      },
+      "recursos": [
+        {
+          "nome": "Ferramentas manuais",
+          "disponivel": false
+        },
+        {
+          "nome": "Bota de segurança / PVC",
+          "disponivel": false
+        },
+        {
+          "nome": "Óculos de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Instrumentos de medição",
+          "disponivel": false
+        },
+        {
+          "nome": "Uniforme RF",
+          "disponivel": false
+        },
+        {
+          "nome": "Cinto de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Escada",
+          "disponivel": false
+        },
+        {
+          "nome": "Protetor auricular",
+          "disponivel": false
+        },
+        {
+          "nome": "Isolamento de Energia",
+          "disponivel": false
+        },
+        {
+          "nome": "Capacete de Segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Luva",
+          "disponivel": false
+        },
+        {
+          "nome": "Parafusadeira",
+          "disponivel": false
+        }
+      ],
+      "outrosEquip": "",
+      "q7": "",
+      "q8": {
+        "resposta": "",
+        "obs": ""
+      },
+      "etapas": [
+        {
+          "etapa": 1,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 2,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 3,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 4,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 5,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 6,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 7,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 8,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 9,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        }
+      ],
+      "pagina2": {
+        "meta": {
+          "responsavel": "",
+          "dataAvaliacao": "",
+          "tempoExec": "",
+          "localAtividade": "",
+          "numSolicitacao": "",
+          "equipeNecessaria": ""
+        },
+        "servico": {
+          "pemt": {
+            "resposta": "",
+            "obs": ""
+          },
+          "limpezaArea": {
+            "resposta": "",
+            "obs": ""
+          },
+          "comunicacoesOperantes": {
+            "resposta": "",
+            "obs": ""
+          },
+          "visitaTecnica": {
+            "resposta": "",
+            "obs": ""
+          },
+          "montagemAndaime": {
+            "resposta": "",
+            "obs": ""
+          },
+          "visitaSMS": {
+            "resposta": "",
+            "obs": ""
+          },
+          "caminhaoMunck": {
+            "resposta": "",
+            "obs": ""
+          },
+          "veiculo": {
+            "resposta": "",
+            "obs": ""
+          },
+          "lubrif": {
+            "resposta": "",
+            "obs": ""
+          },
+          "art": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoEletrico": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoSDAI": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoPM2007": {
+            "resposta": "",
+            "obs": ""
+          },
+          "remanejamentoMobiliario": {
+            "resposta": "",
+            "obs": ""
+          },
+          "tamanho": "",
+          "fimSemana": "",
+          "fimSemanaObs": "",
+          "materialCompra": "",
+          "locacao": "",
+          "apoioOutraEquipe": {
+            "resposta": "",
+            "equipe": "",
+            "descricao": ""
+          }
+        },
+        "informacoesAdicionais": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "materiais": [
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          }
+        ]
+      },
+      "createdAt": "2026-03-14T21:07:51.338Z"
+    },
+    {
+      "id": 1773522480202,
+      "userId": 1773008364489,
+      "userEmail": "eduardo.vieira@normatel.com.br",
+      "userName": "eduardo vieira",
+      "descricaoAtividade": "QEFVQ",
+      "responsavelPlanejamento": "QEFVQFE",
+      "requisitante": "QEFVQRV",
+      "numSolicitacao": "EFVQF",
+      "carteira": "ALV-Alvenaria",
+      "localAtividade": "QEFVQF",
+      "data": "",
+      "q1": {
+        "altura": "",
+        "espacoConfinado": "",
+        "cargaCritica": ""
+      },
+      "q2": {
+        "quente": "",
+        "chamaAberta": "",
+        "fonteIgnicao": "",
+        "areaClassificada": ""
+      },
+      "q3": {
+        "energizadoPressurizado": ""
+      },
+      "q4": {
+        "afetaAcessoRotasFuga": "",
+        "obs": ""
+      },
+      "q5": {
+        "outraAtividadeMesmoLocal": ""
+      },
+      "recursos": [
+        {
+          "nome": "Ferramentas manuais",
+          "disponivel": false
+        },
+        {
+          "nome": "Bota de segurança / PVC",
+          "disponivel": false
+        },
+        {
+          "nome": "Óculos de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Instrumentos de medição",
+          "disponivel": false
+        },
+        {
+          "nome": "Uniforme RF",
+          "disponivel": false
+        },
+        {
+          "nome": "Cinto de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Escada",
+          "disponivel": false
+        },
+        {
+          "nome": "Protetor auricular",
+          "disponivel": false
+        },
+        {
+          "nome": "Isolamento de Energia",
+          "disponivel": false
+        },
+        {
+          "nome": "Capacete de Segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Luva",
+          "disponivel": false
+        },
+        {
+          "nome": "Parafusadeira",
+          "disponivel": false
+        }
+      ],
+      "outrosEquip": "",
+      "q7": "",
+      "q8": {
+        "resposta": "",
+        "obs": ""
+      },
+      "etapas": [
+        {
+          "etapa": 1,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 2,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 3,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 4,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 5,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 6,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 7,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 8,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 9,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        }
+      ],
+      "pagina2": {
+        "meta": {
+          "responsavel": "",
+          "dataAvaliacao": "",
+          "tempoExec": "",
+          "localAtividade": "",
+          "numSolicitacao": "",
+          "equipeNecessaria": ""
+        },
+        "servico": {
+          "pemt": {
+            "resposta": "",
+            "obs": ""
+          },
+          "limpezaArea": {
+            "resposta": "",
+            "obs": ""
+          },
+          "comunicacoesOperantes": {
+            "resposta": "",
+            "obs": ""
+          },
+          "visitaTecnica": {
+            "resposta": "",
+            "obs": ""
+          },
+          "montagemAndaime": {
+            "resposta": "",
+            "obs": ""
+          },
+          "visitaSMS": {
+            "resposta": "",
+            "obs": ""
+          },
+          "caminhaoMunck": {
+            "resposta": "",
+            "obs": ""
+          },
+          "veiculo": {
+            "resposta": "",
+            "obs": ""
+          },
+          "lubrif": {
+            "resposta": "",
+            "obs": ""
+          },
+          "art": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoEletrico": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoSDAI": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoPM2007": {
+            "resposta": "",
+            "obs": ""
+          },
+          "remanejamentoMobiliario": {
+            "resposta": "",
+            "obs": ""
+          },
+          "tamanho": "",
+          "fimSemana": "",
+          "fimSemanaObs": "",
+          "materialCompra": "",
+          "locacao": "",
+          "apoioOutraEquipe": {
+            "resposta": "",
+            "equipe": "",
+            "descricao": ""
+          }
+        },
+        "informacoesAdicionais": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "materiais": [
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          }
+        ]
+      },
+      "createdAt": "2026-03-14T21:08:00.202Z"
+    },
+    {
+      "id": 1773522489439,
+      "userId": 1773008364489,
+      "userEmail": "eduardo.vieira@normatel.com.br",
+      "userName": "eduardo vieira",
+      "descricaoAtividade": "QEFVQF",
+      "responsavelPlanejamento": "QEFVQEF",
+      "requisitante": "QFVQEFV",
+      "numSolicitacao": "QFEVQFE",
+      "carteira": "ALV-Alvenaria",
+      "localAtividade": "QFEVQEF",
+      "data": "",
+      "q1": {
+        "altura": "",
+        "espacoConfinado": "",
+        "cargaCritica": ""
+      },
+      "q2": {
+        "quente": "",
+        "chamaAberta": "",
+        "fonteIgnicao": "",
+        "areaClassificada": ""
+      },
+      "q3": {
+        "energizadoPressurizado": ""
+      },
+      "q4": {
+        "afetaAcessoRotasFuga": "",
+        "obs": ""
+      },
+      "q5": {
+        "outraAtividadeMesmoLocal": ""
+      },
+      "recursos": [
+        {
+          "nome": "Ferramentas manuais",
+          "disponivel": false
+        },
+        {
+          "nome": "Bota de segurança / PVC",
+          "disponivel": false
+        },
+        {
+          "nome": "Óculos de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Instrumentos de medição",
+          "disponivel": false
+        },
+        {
+          "nome": "Uniforme RF",
+          "disponivel": false
+        },
+        {
+          "nome": "Cinto de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Escada",
+          "disponivel": false
+        },
+        {
+          "nome": "Protetor auricular",
+          "disponivel": false
+        },
+        {
+          "nome": "Isolamento de Energia",
+          "disponivel": false
+        },
+        {
+          "nome": "Capacete de Segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Luva",
+          "disponivel": false
+        },
+        {
+          "nome": "Parafusadeira",
+          "disponivel": false
+        }
+      ],
+      "outrosEquip": "",
+      "q7": "",
+      "q8": {
+        "resposta": "",
+        "obs": ""
+      },
+      "etapas": [
+        {
+          "etapa": 1,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 2,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 3,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 4,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 5,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 6,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 7,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 8,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 9,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        }
+      ],
+      "pagina2": {
+        "meta": {
+          "responsavel": "",
+          "dataAvaliacao": "",
+          "tempoExec": "",
+          "localAtividade": "",
+          "numSolicitacao": "",
+          "equipeNecessaria": ""
+        },
+        "servico": {
+          "pemt": {
+            "resposta": "",
+            "obs": ""
+          },
+          "limpezaArea": {
+            "resposta": "",
+            "obs": ""
+          },
+          "comunicacoesOperantes": {
+            "resposta": "",
+            "obs": ""
+          },
+          "visitaTecnica": {
+            "resposta": "",
+            "obs": ""
+          },
+          "montagemAndaime": {
+            "resposta": "",
+            "obs": ""
+          },
+          "visitaSMS": {
+            "resposta": "",
+            "obs": ""
+          },
+          "caminhaoMunck": {
+            "resposta": "",
+            "obs": ""
+          },
+          "veiculo": {
+            "resposta": "",
+            "obs": ""
+          },
+          "lubrif": {
+            "resposta": "",
+            "obs": ""
+          },
+          "art": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoEletrico": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoSDAI": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoPM2007": {
+            "resposta": "",
+            "obs": ""
+          },
+          "remanejamentoMobiliario": {
+            "resposta": "",
+            "obs": ""
+          },
+          "tamanho": "",
+          "fimSemana": "",
+          "fimSemanaObs": "",
+          "materialCompra": "",
+          "locacao": "",
+          "apoioOutraEquipe": {
+            "resposta": "",
+            "equipe": "",
+            "descricao": ""
+          }
+        },
+        "informacoesAdicionais": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "materiais": [
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          }
+        ]
+      },
+      "createdAt": "2026-03-14T21:08:09.439Z"
+    },
+    {
+      "id": 1773522500593,
+      "userId": 1773008364489,
+      "userEmail": "eduardo.vieira@normatel.com.br",
+      "userName": "eduardo vieira",
+      "descricaoAtividade": "QEFVQF",
+      "responsavelPlanejamento": "QEFVQ3R",
+      "requisitante": "QEFVQF",
+      "numSolicitacao": "QERFQVR",
+      "carteira": "ALV-Alvenaria",
+      "localAtividade": "QFV13R",
+      "data": "",
+      "q1": {
+        "altura": "",
+        "espacoConfinado": "",
+        "cargaCritica": ""
+      },
+      "q2": {
+        "quente": "",
+        "chamaAberta": "",
+        "fonteIgnicao": "",
+        "areaClassificada": ""
+      },
+      "q3": {
+        "energizadoPressurizado": ""
+      },
+      "q4": {
+        "afetaAcessoRotasFuga": "",
+        "obs": ""
+      },
+      "q5": {
+        "outraAtividadeMesmoLocal": ""
+      },
+      "recursos": [
+        {
+          "nome": "Ferramentas manuais",
+          "disponivel": false
+        },
+        {
+          "nome": "Bota de segurança / PVC",
+          "disponivel": false
+        },
+        {
+          "nome": "Óculos de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Instrumentos de medição",
+          "disponivel": false
+        },
+        {
+          "nome": "Uniforme RF",
+          "disponivel": false
+        },
+        {
+          "nome": "Cinto de segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Escada",
+          "disponivel": false
+        },
+        {
+          "nome": "Protetor auricular",
+          "disponivel": false
+        },
+        {
+          "nome": "Isolamento de Energia",
+          "disponivel": false
+        },
+        {
+          "nome": "Capacete de Segurança",
+          "disponivel": false
+        },
+        {
+          "nome": "Luva",
+          "disponivel": false
+        },
+        {
+          "nome": "Parafusadeira",
+          "disponivel": false
+        }
+      ],
+      "outrosEquip": "",
+      "q7": "",
+      "q8": {
+        "resposta": "",
+        "obs": ""
+      },
+      "etapas": [
+        {
+          "etapa": 1,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 2,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 3,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 4,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 5,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 6,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 7,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 8,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        },
+        {
+          "etapa": 9,
+          "descricao": "",
+          "inicio": "",
+          "termino": "",
+          "duracao": "00:00"
+        }
+      ],
+      "pagina2": {
+        "meta": {
+          "responsavel": "",
+          "dataAvaliacao": "",
+          "tempoExec": "",
+          "localAtividade": "",
+          "numSolicitacao": "",
+          "equipeNecessaria": ""
+        },
+        "servico": {
+          "pemt": {
+            "resposta": "",
+            "obs": ""
+          },
+          "limpezaArea": {
+            "resposta": "",
+            "obs": ""
+          },
+          "comunicacoesOperantes": {
+            "resposta": "",
+            "obs": ""
+          },
+          "visitaTecnica": {
+            "resposta": "",
+            "obs": ""
+          },
+          "montagemAndaime": {
+            "resposta": "",
+            "obs": ""
+          },
+          "visitaSMS": {
+            "resposta": "",
+            "obs": ""
+          },
+          "caminhaoMunck": {
+            "resposta": "",
+            "obs": ""
+          },
+          "veiculo": {
+            "resposta": "",
+            "obs": ""
+          },
+          "lubrif": {
+            "resposta": "",
+            "obs": ""
+          },
+          "art": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoEletrico": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoSDAI": {
+            "resposta": "",
+            "obs": ""
+          },
+          "desligamentoPM2007": {
+            "resposta": "",
+            "obs": ""
+          },
+          "remanejamentoMobiliario": {
+            "resposta": "",
+            "obs": ""
+          },
+          "tamanho": "",
+          "fimSemana": "",
+          "fimSemanaObs": "",
+          "materialCompra": "",
+          "locacao": "",
+          "apoioOutraEquipe": {
+            "resposta": "",
+            "equipe": "",
+            "descricao": ""
+          }
+        },
+        "informacoesAdicionais": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "materiais": [
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          },
+          {
+            "qtd": "",
+            "und": "",
+            "descricao": "",
+            "separado": ""
+          }
+        ]
+      },
+      "createdAt": "2026-03-14T21:08:20.593Z"
+    }
+  ]
+}
